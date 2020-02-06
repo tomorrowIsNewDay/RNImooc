@@ -1,2 +1,4 @@
 node_modules/*
-ios/
+ios/build
+ios/RNImooc
+ios/Pods/*
